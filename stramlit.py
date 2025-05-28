@@ -12,4 +12,3 @@ import streamlit as st
 st.set_page_config(page_title="1_halaman pertama", layout="centered")
 st.sidebar.header("Halaman Pertama")
 
-st.title("Halo, Dunia!")
