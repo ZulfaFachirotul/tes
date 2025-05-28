@@ -9,6 +9,6 @@ Original file is located at
 
 import streamlit as st
 
-st.set_page_config(page_title="1_halaman pertama", layout="centered")
+st.set_page_config(page_title="Halaman Pertama", layout="centered")
 st.sidebar.header("Halaman Pertama")
 
